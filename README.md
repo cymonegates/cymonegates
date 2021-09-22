@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cymonegates
-- 👀 I’m interested in public health informatics and coding; Syndromic surveillance, STIs and infectious diseases are my biggest interests
-- 🌱 I’m currently learning R
+- 👀 My area of expertise is public health informatics and programming (SAS, SQL, R); I'm highly experienced in Syndromic surveillance and STI and general ID surveillance
+- 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on SAS and R projects that support the modernization of public health
 - 📫 You can reach me on LinkedIn or Twitter
 
