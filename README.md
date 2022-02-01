@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @cymonegates
 
 
-- 👀 My area of expertise is public health informatics and programming (SAS, SQL, R); I'm experienced in STI and Syndromic surveillance and reporting
-- 🌱 I’m currently learning R and Python
+- :trophy: My area of expertise is public health informatics and programming (SAS, SQL, R)
+- :microbe: I've spent the majority of my career working with STI, COVID-19 and Syndromic Surveillance data
+- :brain: I’m currently learning Python
 - 💞️ I’m looking to collaborate on SAS and R projects that support the modernization of public health
 - 📫 You can reach me on LinkedIn or Twitter
 
