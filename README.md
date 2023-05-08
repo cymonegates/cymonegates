@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @cymonegates
 
 
-- :trophy: My area of expertise is public health informatics and programming (SAS, SQL, R)
+- :trophy: My areas of expertise are public health informatics and programming (SAS, SQL, R)
 - :microbe: The majority of my career has been in government public health work in the STI, COVID-19 and Syndromic Surveillance sectors
 - :brain: I’m currently learning Python
 - 💞️ I’m looking to collaborate on SAS and R projects that support the modernization of public health
